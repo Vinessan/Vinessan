@@ -1,12 +1,12 @@
 ## Olá! eu sou o Vinícius Oliveira, trabalho com programação e tecnologia!
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=vinessan&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinessan&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Vinessan&theme=dark" />
+
+
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinessan&layout=compact&langs_count=8&card_width=320&theme=dark" />
+
 </div>
 
 <div style="display: inline_block"><br>
