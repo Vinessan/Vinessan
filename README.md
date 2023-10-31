@@ -1,12 +1,8 @@
 ## Olá! eu sou o Vinícius Oliveira, trabalho com programação e tecnologia!
 
 <div>
-
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Vinessan&theme=dark" />
-
-
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinessan&layout=compact&langs_count=8&card_width=320&theme=dark" />
-
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,5 +28,5 @@
 </div>
 
 
-![Snake animation](https://github.com/vinessan/vinessan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Vinessan/Vinessan/blob/output/github-contribution-grid-snake.svg)
 
